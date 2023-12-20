@@ -6,6 +6,7 @@ import About from "./pages/about/About";
 import Contact from "./pages/contact/Contact";
 import Home from "./pages/home/Home";
 import Projects from "./pages/projects/Projects";
+import Error from "./components/Error/Error";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact />} />
         <Route path="projects" element={<Projects />} />
+        <Route path="*" element={<Error />} />
       </Routes>
     </BrowserRouter>
   );
