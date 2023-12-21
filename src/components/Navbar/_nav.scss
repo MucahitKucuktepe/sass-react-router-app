@@ -24,7 +24,8 @@
 
 
         &:hover{
-            color: blue;
+            cursor: pointer;
+            color: aqua;
         }
         &--active{
             color: $secondary-color;
