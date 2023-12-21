@@ -1,0 +1,15 @@
+.error {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: first baseline;
+  background-image: url(../../img/failure.gif);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+  &_page {
+    margin-top: 5rem;
+    color: red;
+    font-size: 3rem;
+  }
+}

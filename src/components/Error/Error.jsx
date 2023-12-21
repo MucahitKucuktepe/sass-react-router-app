@@ -1,10 +1,11 @@
 import React from 'react'
 import failure from "../../img/failure.gif"
+import "./_error.scss"
 
 const Error = () => {
   return (
-    <div>
-        <img src={failure} alt="" />
+    <div className='error'>
+        <h1 className='error_page'>Sometihing is Wrong!</h1>
     </div>
   )
 }
