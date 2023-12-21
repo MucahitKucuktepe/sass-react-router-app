@@ -65,7 +65,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Sass Portfolio with React Router](sass.gif)
+![Sass Portfolio with React Router](sass-portfolio-react-router.gif)
 
 ## Objective
 
@@ -81,32 +81,10 @@ Build a Sass Portfolio with using ReactJS, react-router and sass.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
 
-- Improve coding skills within HTML & CSS & JS & ReactJS.
 
-- Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
 
-- Step 1: Create React App using `npx create-react-app sass-portfolio-router`.
 
-- Step 2: Convert the provided [template](./template) into a React project.
 
-- Step 3: Build Project with using ReactJS, react-router and sass.
 
-- Step 4: Push your application into your own public repo on Github.
-
-- Step 5: Add project gif to your project and README.md file.
-
-- Note: The solution codes will be shared.
-
-## Notes
-
-- You can add additional functionalities and design to your app.
-
-## Demo
-
-<a href="https://react-router-sass-project.vercel.app/">Sass Portfolio with React Router</a>
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
